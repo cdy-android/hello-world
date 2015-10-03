@@ -1,0 +1,349 @@
+{
+     "list":[ 
+            {
+             "id":1,
+             "cover_image":"http://192.168.1.101:8080/users/image/image1.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":1,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":2,
+             "cover_image":"http://192.168.1.101:8080/users/image/image2.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":2,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":1,
+             "cover_image":"http://192.168.1.101:8080/users/image/image3.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":4,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":3,
+             "cover_image":"http://192.168.1.101:8080/users/image/image4.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":3,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":4,
+             "cover_image":"http://192.168.1.101:8080/users/image/image5.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":4,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":5,
+             "cover_image":"http://192.168.1.101:8080/users/image/image6.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":5,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":6,
+             "cover_image":"http://192.168.1.101:8080/users/image/image7.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":6,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":7,
+             "cover_image":"http://192.168.1.101:8080/users/image/image8.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":7,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":8,
+             "cover_image":"http://192.168.1.101:8080/users/image/image9.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":8,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":9,
+             "cover_image":"http://192.168.1.101:8080/users/image/image10.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":9,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":10,
+             "cover_image":"http://192.168.1.101:8080/users/image/image11.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":10,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":11,
+             "cover_image":"http://192.168.1.101:8080/users/image/image12.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":11,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":12,
+             "cover_image":"http://192.168.1.101:8080/users/image/image13.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":12,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":13,
+             "cover_image":"http://192.168.1.101:8080/users/image/image14.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":13,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":14,
+             "cover_image":"http://192.168.1.101:8080/users/image/image15.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":14,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":15,
+             "cover_image":"http://192.168.1.101:8080/users/image/image16.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":15,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":16,
+             "cover_image":"http://192.168.1.101:8080/users/image/image17.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":16,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":17,
+             "cover_image":"http://192.168.1.101:8080/users/image/image18.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":17,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":18,
+             "cover_image":"http://192.168.1.101:8080/users/image/image19.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":18,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":19,
+             "cover_image":"http://192.168.1.101:8080/users/image/image20.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":19,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":20,
+             "cover_image":"http://192.168.1.101:8080/users/image/image21.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":20,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":1,
+             "cover_image":"http://192.168.1.101:8080/users/image/image22.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":1,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":2,
+             "cover_image":"http://192.168.1.101:8080/users/image/image23.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":2,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":1,
+             "cover_image":"http://192.168.1.101:8080/users/image/image24.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":4,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":3,
+             "cover_image":"http://192.168.1.101:8080/users/image/image25.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":3,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":4,
+             "cover_image":"http://192.168.1.101:8080/users/image/image26.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":4,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":5,
+             "cover_image":"http://192.168.1.101:8080/users/image/image27.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":5,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":6,
+             "cover_image":"http://192.168.1.101:8080/users/image/image28.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":6,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":7,
+             "cover_image":"http://192.168.1.101:8080/users/image/image29.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":7,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":8,
+             "cover_image":"http://192.168.1.101:8080/users/image/image30.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":8,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":9,
+             "cover_image":"http://192.168.1.101:8080/users/image/image31.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":9,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":10,
+             "cover_image":"http://192.168.1.101:8080/users/image/image32.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":10,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":11,
+             "cover_image":"http://192.168.1.101:8080/users/image/image33.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":11,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":12,
+             "cover_image":"http://192.168.1.101:8080/users/image/image34.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":12,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":13,
+             "cover_image":"http://192.168.1.101:8080/users/image/image35.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":13,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":14,
+             "cover_image":"http://192.168.1.101:8080/users/image/image36.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":14,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":15,
+             "cover_image":"http://192.168.1.101:8080/users/image/image37.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":15,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":16,
+             "cover_image":"http://192.168.1.101:8080/users/image/image38.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":16,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":17,
+             "cover_image":"http://192.168.1.101:8080/users/image/image39.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":17,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":18,
+             "cover_image":"http://192.168.1.101:8080/users/image/image40.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":18,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":19,
+             "cover_image":"http://192.168.1.101:8080/users/image/image41.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":19,
+             "image_list":null,
+             "type":3
+             },
+{
+             "id":20,
+             "cover_image":"http://192.168.1.101:8080/users/image/image42.png",
+             "title":"比亚迪最新款6月6日隆重推出",
+             "nid":20,
+             "image_list":null,
+             "type":3
+             }
+
+           
+
+
+
+
+
+
+]
+
+}
